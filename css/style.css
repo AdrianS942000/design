@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.elemet {
+    border: 2px solid rgb(32 204 23);
+
+}
+
+.tytul {
+    color: hsl(0, 100%, 50%);
+
+}
+
+.adrian {
+    color: rgb(7, 35, 192);
+}
+
+.tło {
+
+    background-color: rgb(183, 204, 186);
+}
+
+.cien {
+    box-shadow: 5px -1px 24px 9px #FF0000;
+}
+
+.czcionka {
+    font: bold italic 20px/1.5"lato", sans-serif;
+}
+.testCzcionki {
+    font-family: 'Lato', sans-serif;
+
+}
